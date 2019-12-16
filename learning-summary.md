@@ -56,6 +56,18 @@ On our main Repository screen, you will see that we have README.md file.
  
 ### Let's see it on the WEB!
 
+Once we have saved our changes and our back in the main _learning-journal_ repository, you will need to click on Setting. 
+
+Scroll ALL the way down until you see ***GitHub Pages*** 
+
+- it is here that you will select the master brance and Click: 
+- You will needed to scroll back down to the section to get the text for your website.
+
+Simply open the website in an new tab to view.
+
+#### Congratulations!! You've just created your first website with Github!!
+
+
 
  
 
