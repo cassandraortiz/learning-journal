@@ -18,11 +18,12 @@ Sandbox learnings hands on approach with give you the confidence to build things
 
 
 ## Let's DIVE IN!!!
-### [Github](https://pages.github.com)
-
-We got familiar with Gitub, by watching the Pages video to get familiar with what the site does. 
+We got familiar with Gitub, by watching the [Pages](https://pages.github.com) video to get familiar with what the site does. 
 
 ### Creating Github Repository ###
+[Click Here to startup Github](https://github.com/)
+ _If you are not a user, setup a new user file to continue._
+
 Once we log-in, we created a new Repository - this will be our location for our project.
 
 
