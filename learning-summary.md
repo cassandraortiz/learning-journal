@@ -30,7 +30,7 @@ After we log-in, we will create a new Public ***Repository*** - _A location that
 Simply Click on the + dropdown in the top right corner of your screen, and select NEW REPOSITORY.
 
 We will name this "learning-journal"
-`Username\learning-journal`
+`Username/learning-journal`
 - [x] **Initialize this repository with a README**
 
   - Including an README file will already start your repository with a file. 
@@ -43,7 +43,17 @@ Click **Create repository**
 
 
 ### Working within learning-journal
-On our main Repository screen, you will see that our 
+On our main Repository screen, you will see that we have README.md file.
 
+***.md*** is a Markdown file.  
 
+######Markdown is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform
+
+ - with the README file selected, on the section below the file list - select the little pencil icon to edit.
+ - We will use the Basic writing formats to enter in some text in the README file.  [See formats here...](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#task-lists)
+ 
+ Once complete we will scroll down and click on **Commit changes**
+ 
+ 
+ 
 
