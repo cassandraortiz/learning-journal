@@ -33,13 +33,13 @@ We will name this "learning-journal"
 `Username\learning-journal`
 - [x] **Initialize this repository with a README**
 
-Including an README file will already start your repository with a file. 
+  - Including an README file will already start your repository with a file. 
 
-Adding ***.gititnore*** or ***License*** can be set to:**NONE**
+  - Adding ***.gititnore*** or ***License*** can be set to:**NONE**
 
 Click **Create repository**
 
-###You did it!! You set up your First Repository!!!
+### You did it!! You set up your First Repository!!!
 
 
 
