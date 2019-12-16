@@ -48,7 +48,6 @@ Click **Create repository**
 On our main Repository screen, you will see that we have README.md file.
 
 ***.md*** is a Markdown file.  
-
  #### Markdown is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform
 
  - with the README file selected, on the section below the file list - select the little pencil icon to edit.
