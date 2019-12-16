@@ -22,9 +22,13 @@ We got familiar with Gitub, by watching the [Pages](https://pages.github.com) vi
 
 ### Creating Github Repository ###
 [Click Here to startup Github](https://github.com/)
+
  _If you are not a user, setup a new user file to continue._
 
-Once we log-in, we created a new Repository - this will be our location for our project.
+After we log-in, we created a new *_Repository_* (A location that stores information).
+this will be our location for our project.
+`Username\learning-journal`
+
 
 
 
