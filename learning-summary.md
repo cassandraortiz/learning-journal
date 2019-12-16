@@ -25,9 +25,13 @@ We got familiar with Gitub, by watching the [Pages](https://pages.github.com) vi
 
  _If you are not a user, setup a new user file to continue._
 
-After we log-in, we created a new **_Repository_** _ - A location that stores our information_
+After we log-in, we created a new ***Repository*** - _A location that stores our information_
+
 We will name this "learning-journal"
 `Username\learning-journal`
+
+Scroll down, and include a README file. 
+- [x] Initialize this repository with a README
 
 
 
