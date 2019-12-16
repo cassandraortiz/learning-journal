@@ -25,7 +25,9 @@ We got familiar with Gitub, by watching the [Pages](https://pages.github.com) vi
 
  _If you are not a user, setup a new user file to continue._
 
-After we log-in, we created a new ***Repository*** - _A location that stores our information_
+After we log-in, we will create a new Public ***Repository*** - _A location that stores our information_
+
+Simply Click on the + dropdown in the top right corner of your screen, and select NEW REPOSITORY.
 
 We will name this "learning-journal"
 `Username\learning-journal`
@@ -33,7 +35,11 @@ We will name this "learning-journal"
 
 Including an README file will already start your repository with a file. 
 
-Adding ***.gititnore*** or ***License*** can be set to **NONE**
+Adding ***.gititnore*** or ***License*** can be set to:**NONE**
+
+Click **Create repository**
+
+###You did it!! You set up your First Repository!!!
 
 
 
