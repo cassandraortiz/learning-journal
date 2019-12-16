@@ -29,9 +29,12 @@ After we log-in, we created a new ***Repository*** - _A location that stores our
 
 We will name this "learning-journal"
 `Username\learning-journal`
+- [x] **Initialize this repository with a README**
 
-Scroll down, and include a README file. 
-- [x] Initialize this repository with a README
+Including an README file will already start your repository with a file. 
+
+Adding ***.gititnore*** or ***License*** can be set to **NONE**
+
 
 
 
