@@ -1,3 +1,5 @@
+![Code Fellow](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiGpeC1i7vmAhUkHjQIHVHDBtEQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.geekwire.com%2F2017%2Fcode-fellows-go-far-geekwire-debates-coding-academys-controversial-ad%2F&psig=AOvVaw3ajOf5wiG-OjCAdv1sJzP8&ust=1576617336867187)
+
 # What did we learn today?
 
 Below is a quick overview of what we have learned on 
