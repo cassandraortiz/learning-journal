@@ -39,9 +39,11 @@ We will name this "learning-journal"
 
 Click **Create repository**
 
-### You did it!! You set up your First Repository!!!
+##### You did it!! You set up your First Repository!!!
 
 
+### Working within learning-journal
+On our main Repository screen, you will see that our 
 
 
 
