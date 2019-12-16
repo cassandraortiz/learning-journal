@@ -56,7 +56,7 @@ On our main Repository screen, you will see that we have README.md file.
  
  Once complete we will scroll down and click on **Commit changes**
  
-### Let's see it on the WEB!
+### Now, Let's see it on the WEB!
 
 Once we have saved our changes and our back in the main _learning-journal_ repository, you will need to click on Setting. 
 
