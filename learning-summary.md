@@ -5,17 +5,25 @@ our first day of Coding102.
 
 ### _Sandbox Learning_ - Why it's important...
 Sandbox learning is more of a hands on approach learning style.  
-Think about being in a sandbox, creating a your unique vision of your sand castle.  It may not be the approach 
+Think about being in a sandbox, creating a unique vision of your sand castle.  It may not be the approach 
 your friend next to you does, and may look different.  But _YOU_ built a sand castle!!!  
 
 Sandbox learnings hands on approach with give you the confidence to build things yourself.  Without limiting you to tutorials and open source files.  While those can be helpful, they can limit users. 
 
 **Somethings to concider when new to coding**
--Generating/Selecting Ideas (What do you want to learn now?)
--Planning your learning (managing scope, finding recourses -- You're not gonna know it all!! Build yourself recourses - Its OK to use others stuff, doesnt have to be 100% yours!)
--Reflection (Pause every so often to tally what you've learned -- whats the new questions!?!)
--Find the HELP! If you're stuck for more than 15-20m, its ok to find help!
+- Generating/Selecting Ideas (What do you want to learn now?)
+- Planning your learning (managing scope, finding recourses -- You're not gonna know it all!! Build yourself recourses - Its OK to use others stuff, doesnt have to be 100% yours!)
+- Reflection (Pause every so often to tally what you've learned -- whats the new questions!?!)
+- Find the HELP! If you're stuck for more than 15-20m, its ok to find help!
 
 
 ## Let's DIVE IN!!!
-### M
+### [Github](https://pages.github.com)
+
+We got familiar with Gitub, by watching the Pages video to get familiar with what the site does. 
+
+### Creating Github Repository ###
+Once we log-in, we created a new Repository - this will be our location for our project.
+
+
+
