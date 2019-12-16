@@ -20,6 +20,8 @@ Sandbox learnings hands on approach with give you the confidence to build things
 ## Let's DIVE IN!!!
 We got familiar with Gitub, by watching the [Pages](https://pages.github.com) video to get familiar with what the site does. 
 
+repository
+
 ### Creating Github Repository ###
 [Click Here to startup Github](https://github.com/)
 
@@ -47,7 +49,7 @@ On our main Repository screen, you will see that we have README.md file.
 
 ***.md*** is a Markdown file.  
 
-#### Markdown is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform
+ #### Markdown is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform
 
  - with the README file selected, on the section below the file list - select the little pencil icon to edit.
  - We will use the Basic writing formats to enter in some text in the README file.  [See formats here...](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#task-lists)
