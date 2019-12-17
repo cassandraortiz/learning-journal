@@ -1,4 +1,4 @@
-## Graphical User Interface (GUI) & command lines
+# Graphical User Interface (GUI) & command lines
 
 GUIs are what the user interact with.  Think of the Windows File explorer, how you need to select each folder within directories.  
 
@@ -6,7 +6,7 @@ While GUIs are useful, the developer will use the command line to produce faster
 
 The command line typically presents you with a prompt. As you type, it will be displayed after the prompt. Most of the time you will be issuing commands. 
 
-#### Command line cheats
+### Command line cheats
 
 Command | Response
 ------- | --------
