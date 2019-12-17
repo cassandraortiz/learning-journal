@@ -7,7 +7,7 @@
 
 --- 
 
-## Setting up a git repository
+## Setting up a git repository (DVC)
  Setup the directory you want to use as your repository location on your local machine. 
 
  - you will want to be in the current directory that you will want the repository to be located.
