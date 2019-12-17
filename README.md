@@ -1,3 +1,5 @@
+
+![Profilepic](https://avatars0.githubusercontent.com/u/58947259?s=400&u=203816aef9d5d389a9b750a12cf05dec09b24fa8&v=4)
 # Cassandra Ortiz
 [Github Profile](https://github.com/cassandraortiz)
 
