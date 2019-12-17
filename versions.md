@@ -12,14 +12,14 @@
 
  - you will want to be in the current directory that you will want the repository to be located.
 
- ### CLONING!   
+### CLONING!
  From your GitHub Repository, click on the __Clone or Download__ button, copy the link.
 
  On your command line, in your current directory enter in: 
 
  `$ git clone https://weblocation.com`
 
- #### Your Repository is now setup on your Local machine!
+#### Your Repository is now setup on your Local machine!
 
 ---
 
