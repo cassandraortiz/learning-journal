@@ -1,7 +1,6 @@
 # Cassandra Ortiz
 [Github Profile](https://github.com/cassandraortiz)
-
- 
+Married with 2 kids (13 & 12) - We've been in Seattle for about 2-1/2 years now. Previously from Atlanta, GA. Worked as Project Coordination Manager at a manufacturing company. Looking to further skills in automation for any future possibilities.
 
 
 ## Growth Mindset 
@@ -22,7 +21,7 @@ No one thing is absolutely perfect! The world is filled with multiple world view
 
 ####  _OTHERS WILL BE SUCCESSFUL!_ Be Inspired by it!
 
-The success of this world is piggy backed off others passed successes.  How can we learn and improve if others didn't succeed before us!!
+The success of this world is piggy backed off others passed successes.  How can we learn and improve if others didn't succeed before us?!!
 Use their success to be a drive for your own success. 
 
 
