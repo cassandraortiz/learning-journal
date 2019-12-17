@@ -13,7 +13,7 @@
 ## Learning Journal - Contents
 
 DAY 1 - [Growth Mindset](https://cassandraortiz.github.io/learning-journal/Growthmindset)  \| [Summary](https://cassandraortiz.github.io/learning-journal/learning-summary) \| 
-[GUIs & command line](https://cassandraortiz.github.io/learning-journal/learning-summary) \|
+[GUIs & command line](https://cassandraortiz.github.io/learning-journal/commandline) \|
 [Text Editors](https://cassandraortiz.github.io/learning-journal/editors)
 
 DAY 2 - [Versions](https://cassandraortiz.github.io/learning-journal/versions)
