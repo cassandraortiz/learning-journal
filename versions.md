@@ -33,6 +33,10 @@ finds the current status of your project between the local/cloud version.
 
 will take you to the IDE code of that current repository
 
+`$ git add .`
+
+this will add the changes from the IDE, will still need to be committed.
+
 `$ git fetch`
 
 looks to see if changes between the local/cloud repository
