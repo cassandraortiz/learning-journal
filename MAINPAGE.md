@@ -1,10 +1,12 @@
 
 # Cassandra Ortiz
-![Profilepic](https://avatars0.githubusercontent.com/u/58947259?s=400&u=203816aef9d5d389a9b750a12cf05dec09b24fa8&v=4)
+
 
 [Github Profile](https://github.com/cassandraortiz)
 
-Married with 2 kids (13 & 12) - We've been in Seattle for about 2-1/2 years now. Previously from Atlanta, GA. Worked as Project Coordination Manager at a manufacturing company. Looking to further skills in automation for any future possibilities.
+Cassandra "Cassy" Ortiz | [Github Profile](https://github.com/cassandraortiz)
+----------------------- | -------------------
+![Profilepic](https://avatars0.githubusercontent.com/u/58947259?s=400&u=203816aef9d5d389a9b750a12cf05dec09b24fa8&v=4) | Married with 2 kids (13 & 12) - We've been in Seattle for about 2-1/2 years now. Previously from Atlanta, GA. Worked as Project Coordination Manager at a manufacturing company. Looking to further skills in automation for any future possibilities.
 
 
 ## Growth Mindset 
