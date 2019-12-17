@@ -20,3 +20,4 @@ rm | deletes a file
 new | creates new file
 mkdir | makes a new folder
 
+[HOME](https://cassandraortiz.github.io/learning-journal/)

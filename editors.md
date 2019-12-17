@@ -37,3 +37,4 @@ Think of it as a Suite that brings together different software like:
 
 An all-in-on suite, which may provide useful once more knowledge is gained from our text editor.
 
+[HOME](https://cassandraortiz.github.io/learning-journal/)

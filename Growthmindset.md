@@ -28,3 +28,6 @@ Use their success to be a drive for your own success.
 1. Prioritization
 2. Incremental Delivery
 3. Networking
+
+
+[HOME](https://cassandraortiz.github.io/learning-journal/)

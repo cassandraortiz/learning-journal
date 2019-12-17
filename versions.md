@@ -53,14 +53,14 @@ adds new commit from the IDE modifications.  make sure to add in the detailed me
 
 ---
 
-# !REMEMBER!  A / C / P - Add/Commit/Push
+# !REMEMBER!  A-C-P - Add/Commit/Push
 
 It is best practice to remember any time that you add to your project, Commit the information and then Push it back to your Repository.
 
 
 
  
-
+[HOME](https://cassandraortiz.github.io/learning-journal/)
 
 
 

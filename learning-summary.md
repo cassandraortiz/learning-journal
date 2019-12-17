@@ -71,4 +71,4 @@ Simply open the website in an new tab to view.
 
 
  
-
+[HOME](https://cassandraortiz.github.io/learning-journal/)
