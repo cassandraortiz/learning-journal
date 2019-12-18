@@ -42,6 +42,7 @@ _Hyper Text Markup Language_ is the structure for webpages using semantic tags.
 
 ### html Quick Guide
 Below are _Elements_.  They are the easier way to define the structure of the webpage.
+
 Element | Description
 ------- | -----------
 \<head> | user doesn't see, meta-data,  (ex. webpage tab title)
