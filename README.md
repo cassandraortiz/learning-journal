@@ -16,7 +16,8 @@ DAY 1 - [Growth Mindset](https://cassandraortiz.github.io/learning-journal/Growt
 [GUIs & command line](https://cassandraortiz.github.io/learning-journal/Commandline) \|
 [Text Editors](https://cassandraortiz.github.io/learning-journal/editors)
 
-DAY 2 - [Versions](https://cassandraortiz.github.io/learning-journal/versions)
+DAY 2 - [Versions](https://cassandraortiz.github.io/learning-journal/versions) | [HTML](https://cassandraortiz.github.io/learning-journal/html)
+
 
 
 
