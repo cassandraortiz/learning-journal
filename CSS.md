@@ -53,3 +53,4 @@ There are three different ways you can identify colors:
  ` opacity: 50%`
  ` rgba(102,205,170,0.5)`
 
+[HOME](https://cassandraortiz.github.io/learning-journal/)

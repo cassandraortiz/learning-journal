@@ -58,3 +58,5 @@ Element | Description
 \<main> | main body section of the page.
 \<ul> | unordered list
 \<li> | list items
+
+[HOME](https://cassandraortiz.github.io/learning-journal/)

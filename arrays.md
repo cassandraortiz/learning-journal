@@ -43,3 +43,5 @@ numColors = colors.length
 Truthy/Falsey
 console - in browser, can lookup the values of those variables
 cohesion - changes number into a string (edited) 
+
+[HOME](https://cassandraortiz.github.io/learning-journal/)

@@ -79,3 +79,4 @@ bac=0.12
 
 - in our hmtl we will need to establish our javascript file - in the Head, before we call our function in our code block
 
+[HOME](https://cassandraortiz.github.io/learning-journal/)

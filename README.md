@@ -18,6 +18,9 @@ DAY 1 - [Growth Mindset](https://cassandraortiz.github.io/learning-journal/Growt
 
 DAY 2 - [Versions](https://cassandraortiz.github.io/learning-journal/versions) | [HTML](https://cassandraortiz.github.io/learning-journal/html)
 
+DAY 3 - [css](https://cassandraortiz.github.io/learning-journal/CSS) | [Computer Architecture](https://cassandraortiz.github.io/learning-journal/Architecture-Logic)
+
+DAY 4 - [Scripting](https://cassandraortiz.github.io/learning-journal/Scripts) | [Operators & Loops]()
 
 
 

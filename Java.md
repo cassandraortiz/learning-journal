@@ -85,3 +85,5 @@ Notes about example.
 - _got frustrated_
 - realized that the path my repository was deeper than example.
 - in html; changed path to `../css/c01.css` did similar for js.
+
+[HOME](https://cassandraortiz.github.io/learning-journal/)
