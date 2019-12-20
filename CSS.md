@@ -39,3 +39,17 @@ Child Selector | direct child of another | `li>a {}` targets any \<a> element th
 Descendant Selector | descendent of another specified element (not just direct child) | `p a {}` targets and \<a> element that site inside the \<p> element
 Adjacent Sibling Selector | the next sibling of another | `h1+p {}` targets the first \<p> after any \<h1> (but not others)
 General Sibling Selector | Sibling of another, does not have to be directly preceding | `h1~p {}` If you had 2 \<p> elements that are siblings of \<h1> element, it applies to both
+
+---
+
+## WORKING WITH COLORS 
+
+There are three different ways you can identify colors:
+ - RGB Values - `rgb(102,205,170)`
+ - Hex Colors - `#66cdaa`
+ - Color Names - `MediumAquaMarine`
+
+ Additionally there are two ways that you can adjust the opacity of that color:
+ ` opacity: 50%`
+ ` rgba(102,205,170,0.5)`
+
