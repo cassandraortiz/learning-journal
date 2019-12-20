@@ -20,7 +20,9 @@ DAY 2 - [Versions](https://cassandraortiz.github.io/learning-journal/versions) \
 
 DAY 3 - [css](https://cassandraortiz.github.io/learning-journal/CSS) \| [Computer Architecture](https://cassandraortiz.github.io/learning-journal/Architecture-Logic)
 
-DAY 4 - [Scripting](https://cassandraortiz.github.io/learning-journal/Scripts) \| [Operators & Loops]()
+DAY 4 - [Scripting](https://cassandraortiz.github.io/learning-journal/Scripts) \| [Operators & Loops](https://cassandraortiz.github.io/learning-journal/Operations-Loops)
+
+DAY 5 - [LinkedIn Profile](https://www.linkedin.com/in/cassandra-ortiz-11052523/)
 
 
 
