@@ -16,7 +16,7 @@
 
 [Course 102](https://cassandraortiz.github.io/learning-journal/index_102)
 
-[Course 102](https://cassandraortiz.github.io/learning-journal/index_201)
+[Course 102](https://cassandraortiz.github.io/reading-notes)
 
 
 
